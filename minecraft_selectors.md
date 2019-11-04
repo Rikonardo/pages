@@ -1,6 +1,6 @@
 
 ## Селекторы Minecraft
-Материал подготовлен [Rikonardo](https://www.youtube.com/channel/UCAfPECGsDFaYJP8lXGv5opA "Rikonardo") <br/>
+Материал подготовлен [Rikonardo](https://www.youtube.com/channel/UCAfPECGsDFaYJP8lXGv5opA "Rikonardo"). Информация взята [отсюда](https://www.digminecraft.com/getting_started/target_selectors.php).<br/>
 Обратите внимание - данный гайд подготовлен для версий игры **выше 1.13**! Некоторые фильтры и селекторы могут отсутствовать или работать по другому в более ранних версиях!
 
 ------------
